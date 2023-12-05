@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+nav {
+    float: left;
+}
+
+nav a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+h1 {
+    float: right;
+    font-size: 24px;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero img {
+    width: 200px;
+    height: auto;
+}
+
+.hero h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 16px;
+}
+
+.hero a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+}
+img {
+
+    width: 20%;
+    height: auto;
+}
+
+.artists {
+    padding: 20px;
+}
+
+.artists h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+ .class img{
+    width: 20%;
+    height: auto;
+ }
+
+.artists ul {
+    list-
